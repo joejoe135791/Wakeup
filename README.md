@@ -9,7 +9,7 @@ Working on a wake up routine to wake myself up. I'll list hardware and software 
 - [ ] interface with smarthome devices (such as smart lights or smart light switches)
 
 # building
-I'll be building this by using a raspberry pi (or similar) and I will document this in the (documentation)[]
+I'll be building this by using a raspberry pi (or similar) and I will document this in the [documentation](Documentation.md)
 
 this will be made using python so keep that in mind
 
