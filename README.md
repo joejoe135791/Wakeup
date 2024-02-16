@@ -17,4 +17,4 @@ this will be made using python so keep that in mind
 
 This project is licened under the [MIT License](LICENSE). this software is distributed "as is" without warranty of any kind
 
-<sub>This project integrates with Google Calendar, a trademark of Google LLC. This project is not affiliated with, endorsed by, or sponsored by Google LLC. Google Calendar is a trademark of Google LLC. Your use of Google Calendar within this project is subject to (Google's Terms of Service)[https://policies.google.com/terms] and (Privacy Policy)[https://policies.google.com/privacy].</sub>
+<sub>This project integrates with Google Calendar, a trademark of Google LLC. This project is not affiliated with, endorsed by, or sponsored by Google LLC. Google Calendar is a trademark of Google LLC. Your use of Google Calendar within this project is subject to ([Google's Terms of Service](https://policies.google.com/terms) and [Privacy Policy](https://policies.google.com/privacy).</sub>
