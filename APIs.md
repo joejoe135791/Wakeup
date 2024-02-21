@@ -18,7 +18,7 @@ This is a list of API's that are being used or may be used in the future
 
 # Emergency Alerts
 - [OpenEEW (earthquake alerts, may not be used)](https://github.com/openeew/openeew)
-- [United States Weather Service](https://www.weather.gov/documentation/services-web-api)
+- [United States Weather Service (AWS)](https://www.weather.gov/documentation/services-web-alerts)
 
 # Misc.
 - [Youtube](https://developers.google.com/youtube/)
