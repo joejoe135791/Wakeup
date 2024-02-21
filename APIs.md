@@ -16,8 +16,9 @@ This is a list of API's that are being used or may be used in the future
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [Weather-api](https://github.com/robertoduessmann/weather-api)
 
-# Emergency Alerts (weather related)
-
+# Emergency Alerts
+- [OpenEEW (earthquake alerts, may not be used)](https://github.com/openeew/openeew)
+- [United States Weather Service](https://www.weather.gov/documentation/services-web-api)
 
 # Misc.
 - [Youtube](https://developers.google.com/youtube/)
