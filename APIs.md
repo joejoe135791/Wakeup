@@ -8,6 +8,7 @@ This is a list of API's that are being used or may be used in the future
 
 # Quotes
 - [animechan](https://github.com/rocktimsaikia/animechan)
+- [ZenQuotes](https://zenquotes.io/)
 
 # Weather
 - [AccuWeather](https://developer.accuweather.com/apis)
@@ -19,7 +20,7 @@ This is a list of API's that are being used or may be used in the future
 
 
 # Misc.
--[Youtube](https://developers.google.com/youtube/)
+- [Youtube](https://developers.google.com/youtube/)
 
 # Required
 - tts (researching)
