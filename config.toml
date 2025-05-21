@@ -1,0 +1,6 @@
+# What time to wake you up at. Formatted HH:MM
+alarmTime = "MM:HH"
+# The name you want the TTS to call you when it says "Good Morning, <NAME>!"
+myName = "User"
+# The audio file you want to use as an alarm. make sure it's a .mp3 (maybe)
+alarmSound = "./alarm.mp3"
